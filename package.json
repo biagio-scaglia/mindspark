@@ -1,0 +1,23 @@
+{
+  "name": "mindspark",
+  "version": "1.0.0",
+  "description": "App per il tracking della salute mentale e delle abitudini",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-packager . MindSpark --platform=win32 --arch=x64 --overwrite"
+  },
+  "dependencies": {
+    "electron-store": "^8.1.0"
+  },
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-packager": "^15.0.0"
+  },
+  "build": {
+    "appId": "com.mindspark.app",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
