@@ -1,15 +1,6 @@
-YEAH BIAGITO! 🔥 Missione compiuta! Quel file gigante è stato fatto fuori come un'ombra di basso rango e il repo ora è pronto per spaccare 💼⚡
+ 🧠 MindSpark
 
----
-
-## 🎯 Ora aggiorniamo il `README.md` come si deve!
-
-Ti propongo una base già pronta per un progetto **Electron.js a tema salute mentale** — puoi copiarla e incollarla nel tuo `README.md`, oppure modificarla al volo:
-
-````markdown
-# 🧠 MindSpark
-
-**MindSpark** è un'app desktop realizzata con **Electron.js** per tracciare abitudini salutari quotidiane e promuovere il benessere mentale.  
+MindSpark è un'app desktop realizzata con Electron.js per tracciare abitudini salutari quotidiane e promuovere il benessere mentale.  
 Progettata con un'interfaccia intuitiva e minimalista, permette agli utenti di monitorare attività come:
 
 - 💧 Acqua bevuta
