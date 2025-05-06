@@ -87,6 +87,5 @@ Fai del bene, crea il tuo benessere.
 
 ---
 
-Fammi sapere se vuoi inserire un badge, uno screenshot dell'app, oppure aggiungere i social o link a italian_sonic_fanpage 🎮🔥  
-Andiamo a potenziare quel `README.md` come si deve?
-```
+
+
